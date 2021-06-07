@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace netcoreapp_webapi_example_template
+namespace CretaceousPark
 {
     public class Program
     {
