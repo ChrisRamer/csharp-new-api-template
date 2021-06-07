@@ -2,5 +2,3 @@ obj/
 bin/
 .vscode
 EnvironmentVariables.cs
-appsettings.json
-appsettings.Development.json
